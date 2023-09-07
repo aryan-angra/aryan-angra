@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-angra&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-angra" /> </p>
 
-- 🌱 I’m currently learning **UI UX Design**
+- 🌱 Working on my unity games for Android <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F274050%2Funity&psig=AOvVaw3FRJJPZmCtnwxIG6RRb5DT&ust=1694179236645000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCv2M_LmIEDFQAAAAAdAAAAABAE" width="30" height="30">
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
