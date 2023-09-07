@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Game Development**
 
-- 🎯 Also focusing on [Frontend Proje100 days 100 videos on Youtubects](https://www.youtube.com/@analyzecode)
+- 🎯 Also focusing on 100 days 100 videos on Youtube 
 
 - 💬 Ask me about **web development**
 
