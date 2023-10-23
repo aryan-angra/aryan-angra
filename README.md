@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Game Development**
 
-- 🎯 Also focusing on 100 days 100 videos on Youtube 
+- 🎯 Also focusing on 3D modeling and Animation
 
 - 💬 Ask me about **web development**
 
